@@ -30,9 +30,10 @@ h3 {
   color: gray;
 }
 
-h4 {
+footer {
   text-align: right;
   color: gray;
+  font-size: 14px;
 }
 
 img {
